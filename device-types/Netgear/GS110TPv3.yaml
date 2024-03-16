@@ -1,0 +1,45 @@
+---
+manufacturer: Netgear
+model: GS110TPv2
+slug: netgear-gs110tpv2
+part_number: GS110TPv2
+airflow: passive
+is_full_depth: false
+comments: '[Product Page](https://www.jp.netgear.com/support/product/gs110tp)'
+interfaces:
+  - name: GigabitEthernet/1
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/2
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/3
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/4
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/5
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/6
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/7
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/8
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: GigabitEthernet/9
+    type: 1000base-x-sfp
+  - name: GigabitEthernet/10
+    type: 1000base-x-sfp
